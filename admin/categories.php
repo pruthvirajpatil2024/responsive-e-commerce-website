@@ -6,7 +6,6 @@
     
     <?php include "./templates/sidebar.php"; ?>
 
-
       <div class="row">
       	<div class="col-10">
       		<h2>Manage Category</h2>
