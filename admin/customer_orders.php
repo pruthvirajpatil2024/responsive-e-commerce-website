@@ -3,7 +3,7 @@
 <?php include_once("./templates/navbar.php"); ?>
 <div class="container-fluid">
   <div class="row">
-    
+
     <?php include "./templates/sidebar.php"; ?>
 
       <div class="row">
