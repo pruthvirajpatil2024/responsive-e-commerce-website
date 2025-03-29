@@ -1,5 +1,7 @@
 <?php
 include "db.php";
+// Use httpOnly and secure for Cookies
+// For security, make cookies httpOnly and secure.
 
 session_start();
 
